@@ -1,6 +1,14 @@
 # 💫 About Me:
-🧑🏻‍💻 I'm currently working as a Backend developer on the Desap company.<br><br>💿 I'm looking to collaborate on free software.<br><br>🤝  I’m looking for help with in building cool developer communities.<br><br>🌱 I’m trying to be a senior developer.<br>
+🧑🏻‍💻 Hi, I'm Saeid – a passionate and versatile backend developer with over 10 years of experience in software engineering. I specialize in building scalable backend systems with **Node.js**, **TypeScript**, and **NestJS**, and have a solid background in **embedded systems**, **Android development**, and **PHP frameworks** like Laravel and Symfony.<br><br>💿 I'm looking to collaborate on free software.<br><br>🤝  I’m looking for help with in building cool developer communities.<br><br>🌱 I’m trying to be a senior developer.<br>
 
+### 💡 Tech Highlights:
+- 🛠️ Backend: Node.js, NestJS, Express, TypeScript
+- 🧩 Architecture: Microservices, Domain-Driven Design (DDD), Event-driven systems
+- 📦 Databases: PostgreSQL, MongoDB, Redis
+- ⚙️ DevOps: Docker, Azure, CI/CD
+- 🧪 Testing: TDD, Jest, Postman
+
+📬 Feel free to connect or collaborate — I’m always open to exciting projects and learning from others.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saeid.saednazari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saeid.saednazari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeid-saednazari) 
